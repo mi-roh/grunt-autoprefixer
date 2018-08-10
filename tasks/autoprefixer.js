@@ -2,7 +2,7 @@
 
 var path = require('path');
 var postcss = require('postcss');
-var autoprefixer = require('autoprefixer-core');
+var autoprefixer = require('autoprefixer');
 var diff = require('diff');
 var chalk = require('chalk');
 
